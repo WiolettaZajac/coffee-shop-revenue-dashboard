@@ -30,7 +30,7 @@ The dashboard includes:
 - Hourly sales analysis
 - Interactive slicers for filtering the data
 
-![Coffee Sales Dashboard](images/coffee_sales.png)
+![Coffee Sales Dashboard](images/coffee-shop-sales-dashboard.png)
 
 ---
 
